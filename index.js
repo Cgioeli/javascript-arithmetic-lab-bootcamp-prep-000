@@ -23,14 +23,11 @@ function dec(a) {
   return a - 1
 }
 
-function makeInt(a) {
-  return a
+function makeInt(n) {
+  return n
 }
 
 function preserveDecimal(n) {
   return n
 }
 
-function preserveDecimal(a) {
-  return a
-}
