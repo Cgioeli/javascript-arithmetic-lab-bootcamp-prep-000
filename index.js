@@ -24,10 +24,12 @@ function dec(a) {
 }
 
 function makeInt(a) {
+  parseInt(n, 10)
   return a
 }
 
 function preserveDecimal(n) {
+  
   return n
 }
 
