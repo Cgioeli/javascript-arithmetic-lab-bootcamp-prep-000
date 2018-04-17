@@ -30,3 +30,7 @@ function makeInt(a) {
 function preserveDecimal(gcgkjhgb) {
   return gcgkjhgb
 }
+
+function preserveDecimal(a) {
+  return a
+}
