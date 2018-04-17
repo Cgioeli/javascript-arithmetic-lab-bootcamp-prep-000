@@ -23,8 +23,8 @@ function dec(a) {
   return a - 1
 }
 
-function makeInt(n) {
-  return n 
+function makeInt(a.toString()) {
+  return 
 }
 
 function preserveDecimal(n) {
