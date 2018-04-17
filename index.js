@@ -27,10 +27,3 @@ function makeInt(a) {
   return a
 }
 
-function preserveDecimal(n) {
-  return n
-}
-
-function preserveDecimal(a) {
-  return a
-}
